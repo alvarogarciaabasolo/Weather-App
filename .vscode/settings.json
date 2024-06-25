@@ -1,0 +1,8 @@
+{
+  "html.completion.attributeDefaultValue": "doublequotes",
+  "material-icon-theme.activeIconPack": "react",
+  "material-icon-theme.folders.theme": "specific",
+  "workbench.settings.editor": "ui",
+  "workbench.editor.decorations.colors": true,
+  "window.autoDetectColorScheme": true
+}
